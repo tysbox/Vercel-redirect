@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://discover.bisen-kyoto.com/:path*",
+      "statusCode": 301
+    }
+  ]
+}
